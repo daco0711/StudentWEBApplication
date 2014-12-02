@@ -1,0 +1,5 @@
+D:\Diplomski\WebApplicationStudent\WebApplicationStudent\bin\WebApplicationStudent.dll
+D:\Diplomski\WebApplicationStudent\WebApplicationStudent\bin\WebApplicationStudent.pdb
+D:\Diplomski\WebApplicationStudent\WebApplicationStudent\obj\Debug\ResolveAssemblyReference.cache
+D:\Diplomski\WebApplicationStudent\WebApplicationStudent\obj\Debug\WebApplicationStudent.dll
+D:\Diplomski\WebApplicationStudent\WebApplicationStudent\obj\Debug\WebApplicationStudent.pdb
